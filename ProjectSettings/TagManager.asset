@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1915771737
+    locked: 0
+  - name: Exits
+    uniqueID: 1172132037
+    locked: 0
+  - name: Agents
+    uniqueID: 4026979943
+    locked: 0
+  - name: Player
+    uniqueID: 1290393513
+    locked: 0
+  - name: Weapons
+    uniqueID: 4050719327
+    locked: 0
+  - name: Front
+    uniqueID: 1415033849
+    locked: 0
+  - name: Pickable
+    uniqueID: 1074560747
+    locked: 0
+  - name: UI
+    uniqueID: 1684326695
+    locked: 0
